@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "67384546234",
+    "firebase_url": "https://rubyadam-df256.firebaseio.com",
+    "project_id": "rubyadam-df256",
+    "storage_bucket": "rubyadam-df256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67384546234:android:e36c577e2a345cae834383",
+        "android_client_info": {
+          "package_name": "com.adam.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67384546234-rr4065b4iibvtmm8hdgs38f2dt2han52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMqyNHcKFvXfpGlPtKC2w5MpCw-vBCIok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67384546234-rr4065b4iibvtmm8hdgs38f2dt2han52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67384546234:android:12f30e545473874b834383",
+        "android_client_info": {
+          "package_name": "com.corona.rubyadam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67384546234-rr4065b4iibvtmm8hdgs38f2dt2han52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMqyNHcKFvXfpGlPtKC2w5MpCw-vBCIok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67384546234-rr4065b4iibvtmm8hdgs38f2dt2han52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67384546234:android:a4dcbf9e6fadc238834383",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67384546234-rr4065b4iibvtmm8hdgs38f2dt2han52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMqyNHcKFvXfpGlPtKC2w5MpCw-vBCIok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67384546234-rr4065b4iibvtmm8hdgs38f2dt2han52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
